@@ -17,3 +17,14 @@ edge cuts, usb port position, and some tray mount points are lifted from there
 stm32f072 schematic is courtesy xphoenixd
 
 this hasn't been tested. bom is missing LCSC info. don't use this.
+
+## issues
+
+* no good plate file, haven't gotten around to doing that yet. that svg in the plate folder is broken, and untested
+* SW12 needs to be flipped to north facing, otherwise the pins interfere with usb
+* some mount points found on other minivan pcb's are missing due to me being too lazy to re-place components and re-route, others interfere with switch footprints
+* has not been tested at all
+
+have fun!
+
+zhol

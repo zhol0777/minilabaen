@@ -484,7 +484,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "../../../Desktop/minibaen r2.dsn",
-      "step": "",
+      "step": "fr4_plate/plate.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

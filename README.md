@@ -18,7 +18,8 @@ edge cuts, usb port position, and some tray mount points are lifted from there.
 
 gerbers and dxf for plates for tray mount and coriander top mount are provided.
 
-this hasn't been tested. don't use this.
+pcb prototype was confirmed functional as of sept. 27, 2023. plates are awaiting prototyping still.
+the firmware source needs some fixes and updates, will provide those shortly.
 
 ## thanks
 
@@ -33,7 +34,6 @@ this hasn't been tested. don't use this.
 * SW43 needs to be flipped to north facing, to prevent interference with bottom right tray mount point.
 * some mount points are excluded due to interference with components or switches
   * one of the mount points on the 3U bar cannot be screwed in since it is in the same location as the 3u stabilizer. the best way to deal with this is to use GMK 3U bars, which contain stems for 2U stabilizers as well.
-* has not been tested at all. mounting holes and usb port may be slightly off. hopefully the tray mount plate is fine
 
 have fun!
 

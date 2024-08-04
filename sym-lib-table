@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/marbastlib-various.kicad_sym")(options "")(descr ""))
   (lib (name "marbastlib-mx")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/marbastlib-mx.kicad_sym")(options "")(descr ""))
+  (lib (name "keybage")(type "Legacy")(uri "${KIPRJMOD}/KeybageLibrary/symbols/keybage.lib")(options "")(descr ""))
 )

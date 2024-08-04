@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/marbastlib-various.pretty")(options "")(descr ""))
   (lib (name "marbastlib-mx")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/marbastlib-mx.pretty")(options "")(descr ""))
+  (lib (name "Keybage_MX_Cutout")(type "KiCad")(uri "${KIPRJMOD}/KeybageLibrary/footprints/Keybage_MX_Cutout.pretty")(options "")(descr ""))
 )
